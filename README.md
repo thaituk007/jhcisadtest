@@ -3,6 +3,8 @@
  
  
  git clone https://github.com/thaituk007/jhcisadtest
+ 
  cd jhcisadtest
+ 
  composer update
  
